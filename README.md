@@ -1,5 +1,6 @@
 
-![Ahmed salihi9610@gmail com](https://github.com/10xXAhmedXx10/10xXAhmedXx10/assets/109596675/074220be-32ef-447e-b62f-c344176a36e6)
+![Ahmed salihi9610@gmail com (1)](https://github.com/10xXAhmedXx10/10xXAhmedXx10/assets/109596675/b32c0ee5-d59e-4672-8a2a-74482c1815af)
+
 
 <h1 align="center">Hi 👋, I'm Ahmed Alsalihi</h1>
 
