@@ -1,6 +1,5 @@
 
-![Untitled design](https://github.com/10xXAhmedXx10/10xXAhmedXx10/assets/109596675/dc63f2d3-3653-46ce-b984-1e1bfc364c89)
-
+![Ahmed salihi9610@gmail com](https://github.com/10xXAhmedXx10/10xXAhmedXx10/assets/109596675/074220be-32ef-447e-b62f-c344176a36e6)
 
 <h1 align="center">Hi 👋, I'm Ahmed Alsalihi</h1>
 
@@ -67,4 +66,4 @@ I love connecting with like-minded professionals and exploring new opportunities
 
 
 
-- 🌱 I’m currently learning **React native**
+<h2 align="center">- 🌱 I’m currently learning **React native**</h2>
